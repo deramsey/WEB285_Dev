@@ -10,7 +10,7 @@ This course will explore, discuss, and research emerging technologies in the web
 2. HTML, CSS, and Javascript Refresher
 3. Establishing the NodeJS Environment
 4. Getting Started with React
-5. Utilizing WebHooks in React
+5. Utilizing Hooks in React
 6. React Core Components
 7. React Native App Development
 8. Persistance and Networking
@@ -58,11 +58,11 @@ This course will explore, discuss, and research emerging technologies in the web
 
 ---
 
-### Module 4: Utilizing WebHooks in React
+### Module 4: Utilizing Hooks in React
 #### Module Objectives
 ---
 
-**Final Project Progress Assignment:** Integrate at least one object that utilizes WebHooks in to your application and describe how you intend to use it.
+**Final Project Progress Assignment:** Integrate at least one object that utilizes Hooks in to your application and describe how you intend to use it.
 
 ---
 
@@ -105,7 +105,7 @@ Your final project will be built on top of milestone projects that are in each m
 - Module 1: App Idea
 - Module 2: Establishing Your Environment
 - Module 3: Prototyping
-- Module 4: WebHooks
+- Module 4: Hooks
 - Module 5: Nativify
 - Module 6: Big Progress
 - Module 7: Persistence
