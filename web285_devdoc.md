@@ -29,38 +29,46 @@ This course will explore, discuss, and research emerging technologies in the web
 
 ## Modules
 ### BEGIN HERE
-
+#### Module Objectives
 
 
 ### Module 1: HTML, CSS, and Javascript Refresher
+#### Module Objectives
 
 **Final Project Progress Assignment:** Come up with your app idea 
 
 ### Module 2: Establishing the NodeJS Environment
+#### Module Objectives
 
 **Final Project Progress Assignment:** Install your NodeJS server on your Raspberry Pi and get it ready to use 
 
 ### Module 3: Getting Started with React
+#### Module Objectives
 
 
 
 ### Module 4: Utilizing WebHooks in React
+#### Module Objectives
 
 
 
 ### Module 5: React Core Components
+#### Module Objectives
 
 
 
 ### Module 6: React Native App Development
+#### Module Objectives
 
 
 
 ### Module 7: Persistance and Networking
+#### Module Objectives
 
 
 
 ### Module 8: Publishing React Native Apps
+#### Module Objectives
 
 
 
